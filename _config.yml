@@ -182,7 +182,10 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  students:
+  student:
+    output: true
+    permalink: /:collection/:path/
+  service:
     output: true
     permalink: /:collection/:path/
 
