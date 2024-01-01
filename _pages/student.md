@@ -11,14 +11,14 @@ author_profile: true
 
 ## Master Students
 
-- [Jack Tolar](https://www.linkedin.com/in/danielhajialigol/) 
+- [Jack Tolar]
 - [Lydia Nicolai](https://www.linkedin.com/in/lydia-nicolai-668b4223b) (Co-advise with Lynn Resler)
 
 ## Former PhD and MS Students:
 - Heng Wan, PhD, 2020
 - Alexander Miele, MS, 2023
 - Alexander Rosenman, MS, 2020
-- Callie Lambert, MS student, 2018 (co-chair with Lynn Resler)
+- Callie Lambert, MS, 2018 (co-chair with Lynn Resler)
 - Ruoyu Zhang, MS, 2018
 - Andy Skeen, MS, 2017
 - Austin Cooner, MS, 2016
