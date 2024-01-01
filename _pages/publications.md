@@ -15,3 +15,9 @@ Weiss, D.J., Nelson, A., Vargas-Ruiz, C.A., Gligorić, K., Bavadekar, S., Gabril
 **Shao, Y.**, Lunetta, R.S., Wheeler, B., Iiames, J.S. and Campbell, J.B., 2016. "[An evaluation of time-series smoothing algorithms for land-cover classifications using MODIS-NDVI multi-temporal data](https://www.sciencedirect.com/science/article/pii/S0034425715302443)" _Remote Sensing of Environment_, 174, pp.258-265.
 
 **Shao, Y.** and Lunetta, R.S., 2012. "[Comparison of support vector machine, neural network, and CART algorithms for the land-cover classification using limited training data points](https://www.sciencedirect.com/science/article/pii/S0924271612000664)" _ISPRS Journal of Photogrammetry and Remote Sensing_, 70, pp.78-87.
+
+---
+All Publications
+======
+## Available at:
+https://scholar.google.com/citations?user=xWEM55kAAAAJ&hl=en&oi=ao
