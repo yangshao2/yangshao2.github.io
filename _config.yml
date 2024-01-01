@@ -183,7 +183,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   students:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 # Defaults
@@ -224,7 +224,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
       type: research
@@ -233,12 +233,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _students
   - scope:
       path: ""
-      type: talks
+      type: students
     values:
-      layout: talk
+      layout: students
       author_profile: true
       share: true
 

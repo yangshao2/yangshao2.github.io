@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Student"
+permalink: /student/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.student reversed %}
+  {% include archive-single.html %}
+{% endfor %}
