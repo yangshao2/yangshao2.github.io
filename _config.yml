@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yang Shao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -183,9 +183,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
