@@ -11,7 +11,7 @@ author_profile: true
 
 ## Master Students
 
-- [Jack Tolar]
+-  Jack Tolar
 - [Lydia Nicolai](https://www.linkedin.com/in/lydia-nicolai-668b4223b) (Co-advise with Lynn Resler)
 
 ## Former PhD and MS Students:

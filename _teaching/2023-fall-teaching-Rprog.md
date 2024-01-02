@@ -18,4 +18,3 @@ location: "Blacksburg,VA"
 - Email: yshao [at] vt [dot] edu
 - Office Hours: TBD
 
-**TAs**: TBD
