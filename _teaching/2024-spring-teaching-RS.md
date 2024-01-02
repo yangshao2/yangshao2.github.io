@@ -30,7 +30,8 @@ This is an advanced course in optical remote sensing and phenology. The goals of
 - Change detection methods    
 - Vegetation indices and image transformation  
 - MODIS NDVI/EVI and time-series analysis  
-- Phenology and seasonality; Phenological observation and networks  
+- Phenology and seasonality
+- Phenological observation and networks    
 - Tree phenology observation  
 - Phonological models and validation   
 - MODIS-based phonological models  
