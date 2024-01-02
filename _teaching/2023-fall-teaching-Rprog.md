@@ -1,5 +1,5 @@
 ---
-title: "Remote Sensing and Phenology"
+title: "R programming for geospatial applications"
 collection: teaching
 type: "Undergraduate/graduate course"
 permalink: /teaching/2023-fall-teaching-Rprog
