@@ -16,6 +16,11 @@ location: "Blacksburg,VA"
 **Instructor**: Yang Shao
 - Office: 217 Wallace Hall
 - Phone: (540) 231-1867
-- Email: yshao [at] vt [dot] edu
-- Office Hours: TBD
+- Email: yshao@vt.edu
+- Office Hours: 2:00 PM - 3:00 PM, Thursday 
 
+**Course Description**: 
+
+This is an advanced course in optical remote sensing and phenology. The goals of this course are to (1) promote understanding of remote sensing concepts and theories, (2) provide fundamental knowledge about remote sensing digital image analysis, and (3) help students obtain independent research skills in remote sensing-based vegetation phenology analysis, which is an important approach to monitor the timing of recurring biological events and their biotic and abiotic forces (i.e., climate change). We will primarily use Landsat and MODIS remote sensing data for the class. Using Landsat data, we will cover topics in remote sensing image classification, change detection, and accuracy assessment. We will mainly use MODIS NDVI/EVI time-series data for the vegetation phenology analysis. Students will work on 7-8 lab exercises. Most lab exercises will be implemented using ArcGIS, ENVI, and Google Earth Engine, but Matlab (or RStudio) will also be introduced for certain lab exercises. During the course we will read journal articles and selected book chapters. Students are also expected to complete an end-of-term project that applies concepts/techniques learned in the class. The formats of the course include instructor lectures, paper discussions, and hands-on research oriented labs.                     
+
+**Tentative topics**:
