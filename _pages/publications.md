@@ -17,7 +17,4 @@ Weiss, D.J., Nelson, A., Vargas-Ruiz, C.A., Gligorić, K., Bavadekar, S., Gabril
 **Shao, Y.** and Lunetta, R.S., 2012. "[Comparison of support vector machine, neural network, and CART algorithms for the land-cover classification using limited training data points](https://www.sciencedirect.com/science/article/pii/S0924271612000664)" _ISPRS Journal of Photogrammetry and Remote Sensing_, 70, pp.78-87.
 
 ---
-All Publications
-======
-## Available at:
-https://scholar.google.com/citations?user=xWEM55kAAAAJ&hl=en&oi=ao
+## All Publications Available at [here](https://scholar.google.com/citations?user=xWEM55kAAAAJ&hl=en&oi=ao)
