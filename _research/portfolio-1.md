@@ -8,3 +8,5 @@ collection: portfolio
 
 
 One of the first attempts in remote sensing research to conduct object detection using sub-meter to one-meter resolution data for a continental-scale application
+
+[Detailed methods and results](https://www.wri.org/research/dataset-us-school-bus-depots)
