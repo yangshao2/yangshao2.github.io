@@ -1,5 +1,5 @@
 ---
-title: "R programming for geospatial applications"
+title: "GIT for Land Change Modeling"
 collection: teaching
 type: "Undergraduate/graduate course"
 venue: "Virginia Tech"
