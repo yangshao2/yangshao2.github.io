@@ -8,9 +8,6 @@ date: 2024-01-16
 location: "Blacksburg,VA"
 ---
 
-
-<span style="color:red">Information on this page has not been updated since January 16, 2024. Students should go to Canvas for the most up-to-date course syllabus and materials.</span>
-
 **Time and Location**: Tuesday and Thursday, 9:30 AM - 10:45 AM. Wallace Hall 101.
 
 **Instructor**: Yang Shao
